@@ -15,4 +15,12 @@ DATABASE_URL=sqlite:///./db.sqlite3
 # run development server
 ```bash
 python manage.py runserver
+
+
+
+
+
 ```
+
+
+
